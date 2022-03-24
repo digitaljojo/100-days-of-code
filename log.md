@@ -29,6 +29,7 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 ### Day 4: March 23, Wednesday
 
 **Today's Progress**: Moved onto algoriths. I still recall a lot from my lessons in Java so relatively easy. A few oolies here and there.
+
 **Thoughts** Doing algotrithms is incredibly exhilerating to me. I love solving problems and seeing ways where I can improve my coding proficiency. If I solve a problem that took me a long time or a lot of code, I like to look at solutions to see how I can do better in the future.
 
 **Last Lesson Completed:  ** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong
