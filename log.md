@@ -33,3 +33,12 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 **Thoughts** Doing algotrithms is incredibly exhilerating to me. I love solving problems and seeing ways where I can improve my coding proficiency. If I solve a problem that took me a long time or a lot of code, I like to look at solutions to see how I can do better in the future.
 
 **Last Lesson Completed:  ** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong
+
+
+### Day 5: March 24, Thursday
+
+**Today's Progress**  Finished Algorithms and Data Structures, Object Oriented Programming, and now I'm moving more into Functional Programming. I learned a bit more how to utilize the .map() function, albeit with some difficulty. I also uploaded my first commit to GitHub and made my second repository (first that wasn't just assigned to me at account creation).
+
+**Thoughts** Definitely need to take the weekend for some coding relaxation with HTML and CSS practice. GitHub is super helpful in their Docs to say how to do certain tasks. Making a file, uploading it, and doing editing were easily understood. As far as repositories go, that seems like a topic to be delved into more soon. Gonna try to make some webapages witth the HTML and CSS I know to upload and display.
+
+**Last code written:** https://github.com/digitaljojo/fcc_lessons/blob/d2fbb74e0cc95fab8448c1c111f802b866b0f4ab/implement-map-on-a-prototype.js
