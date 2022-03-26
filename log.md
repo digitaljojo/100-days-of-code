@@ -42,3 +42,12 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 **Thoughts** Definitely need to take the weekend for some coding relaxation with HTML and CSS practice. GitHub is super helpful in their Docs to say how to do certain tasks. Making a file, uploading it, and doing editing were easily understood. As far as repositories go, that seems like a topic to be delved into more soon. Gonna try to make some webapages witth the HTML and CSS I know to upload and display.
 
 **Last code written:** https://github.com/digitaljojo/fcc_lessons/blob/d2fbb74e0cc95fab8448c1c111f802b866b0f4ab/implement-map-on-a-prototype.js
+
+### Day 6: March 25, Friday
+
+**Today's Progess** After finishing the functional Programming section on FCC, I've started to dive into the Intermediate Algorithm section. Definitely a new challenge.
+
+**Thoughts** I am SUPER appreciate for STack Overflow and websites of the like. The issue I'm having with my current code is trying to use the value of an object as the comparison value against other objects nested in an array. I've gotten much better at writing arrow functions to properly what I want with minimal compiling errors. Also learned that functions for objects could be chained together which definitely helped my progress a lot in getting closer to solving my problem.
+
+
+**Last code written** https://github.com/digitaljojo/fcc_lessons/blob/fca7bcabc9a1568f62e8659c7ebf73883f2d4f1e/ias_wherefore_art_thou.js
