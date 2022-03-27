@@ -51,3 +51,11 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 
 
 **Last code written** https://github.com/digitaljojo/fcc_lessons/blob/fca7bcabc9a1568f62e8659c7ebf73883f2d4f1e/ias_wherefore_art_thou.js
+
+### Day 7: March 26, Saturday
+
+**Today's Progress** Knocked out three of the intermediate algorithm problems. Most of my day was spent gaining a better comprehension of Object key value pairs and accessing them in the "What's In a Name" challenge from FCC.
+
+**Thoughts** I have far more tenacity than I thought. Doing more Sudoku might be a good idea to help my brain stay active when I get tired of looking at code. Also beating the punching bag at the gym... great for stress relief when an algorithm is gettting the better of me. Walking away if I can't make progress in 20 minutes is a rule I need to stand by- it helps coming backk refreshed to a problem.
+
+**Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/898227f22ddaca1b625c0d48138a0de18eb0cf97/pig-latin.txt
