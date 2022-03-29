@@ -59,3 +59,11 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 **Thoughts** I have far more tenacity than I thought. Doing more Sudoku might be a good idea to help my brain stay active when I get tired of looking at code. Also beating the punching bag at the gym... great for stress relief when an algorithm is gettting the better of me. Walking away if I can't make progress in 20 minutes is a rule I need to stand by- it helps coming backk refreshed to a problem.
 
 **Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/898227f22ddaca1b625c0d48138a0de18eb0cf97/pig-latin.txt
+
+### Days 8-9: March 27 & 28, Sunday and Monday
+
+**Progress Made** Still slugging away at the intermediate algorithms in the FreeCodeCamp bootcamp for Javascript. A lot of small "aha" moments of debugging by changing direction.
+
+**Thoughts** I also decided to watch a video on the negative aspects of being a developer/software engineer, and I'm honestly not upset. I knew this path would be one of constant learning, and I think I'll enjoy the path I take. I want to do this because I have a love of problem solving and helping others. Who knows what side projects I'll start soon, but I really can say I am glad I've restarted down this path. I do, however, need to work on a schedule so I can adequately balance my life and obligations. I'm still focusing on losing weight, so I need to make sure coding doesn't interfere with other aspects.
+
+**Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/1ddeb8d2b9d95954dc4765551603442514244ea9/drop-it.js
