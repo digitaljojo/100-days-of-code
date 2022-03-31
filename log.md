@@ -2,6 +2,9 @@
 
 Note: Until I become more proficient with GitHub, in each of my log updates, I'll include the last lesson I've completed successfully from FreeCodeCamp. I'm looking into learning how to navigate the site better along my journey!
 
+
+## Week 1  
+
 ### Day 1: March 20, Sunday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp. I started my Twitter to track my progress.
@@ -60,6 +63,8 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 
 **Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/898227f22ddaca1b625c0d48138a0de18eb0cf97/pig-latin.txt
 
+## Week 2
+
 ### Days 8-9: March 27 & 28, Sunday and Monday
 
 **Progress Made** Still slugging away at the intermediate algorithms in the FreeCodeCamp bootcamp for Javascript. A lot of small "aha" moments of debugging by changing direction.
@@ -68,7 +73,7 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 
 **Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/1ddeb8d2b9d95954dc4765551603442514244ea9/drop-it.js
 
-## Days 10-11: March 29 & 30, Tuesday and Wednesday
+### Days 10-11: March 29 & 30, Tuesday and Wednesday
 
 **Progress Made:** The algorithm problems are getting more difficult for me, as I'd expect, in the challenges. Some I breeze through with minimal effort while other concepts had had my brain puzzled for a hot minute. My current struggle has been with the Optional Arguments challenge. As a break from JS, I decided to start working on a porfolio site to house my artworks.
 
