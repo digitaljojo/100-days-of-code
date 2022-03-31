@@ -70,8 +70,10 @@ Note: Until I become more proficient with GitHub, in each of my log updates, I'l
 
 ## Days 10-11: March 29 & 30, Tuesday and Wednesday
 
-**Progress Made** The algorithm problems are getting more difficult for me, as I'd expect, in the challenges. Some I breeze through with minimal effort while other concepts had had my brain puzzled for a hot minute. My current struggle has been with the Optional Arguments challenge. As a break from JS, I decided to start working on a porfolio site to house my artworks.
+**Progress Made:** The algorithm problems are getting more difficult for me, as I'd expect, in the challenges. Some I breeze through with minimal effort while other concepts had had my brain puzzled for a hot minute. My current struggle has been with the Optional Arguments challenge. As a break from JS, I decided to start working on a porfolio site to house my artworks.
 
-**Last Code Written** https://github.com/digitaljojo/fcc_lessons/blob/cc7a38843f3e0138f01266cf2e3fbc65b5903543/everything-be-true.js
+**Thoughts** Working with the arguments objct is a lot more difficult than I expected. I see how much flexibility it has but it still eludes me in so many ways. Also it was refreshing going back to HTML/CSS. I added BongoCat to my VSCode extensions as a little boost of happiness while I work!
+
+**Last Code Written:** https://github.com/digitaljojo/fcc_lessons/blob/cc7a38843f3e0138f01266cf2e3fbc65b5903543/everything-be-true.js
 
 
