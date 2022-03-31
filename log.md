@@ -2,6 +2,8 @@
 
 Note: Until I become more proficient with GitHub, in each of my log updates, I'll include the last lesson I've completed successfully from FreeCodeCamp. I'm looking into learning how to navigate the site better along my journey!
 
+Jump to https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-2
+
 
 ## Week 1  
 
