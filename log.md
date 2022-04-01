@@ -83,4 +83,11 @@ Jump to https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-
 
 **Last Code Written:** https://github.com/digitaljojo/fcc_lessons/blob/cc7a38843f3e0138f01266cf2e3fbc65b5903543/everything-be-true.js
 
+### Day 12: March 31, Thursday
+
+**Progress Made** After doing research on currying and asking a friend for insight, I completed the challenge. It took way longer than desired, but I can see the end in sight.
+
+**Thoughts** My aha moments have hit me sooner and sooner, each leading me down a path of discovery. Instead of taking notes, I am utilizing the comments in each of my codes to document any of the lessons learned from my previous endeavors.
+
+**Last Code Completed** https://github.com/digitaljojo/fcc_lessons/blob/5aac22afcee0a3cd97b96b349f13c8c120dbf52b/addTogether.js
 
