@@ -3,7 +3,7 @@
 Note: Until I become more proficient with GitHub, in each of my log updates, I'll include the last lesson I've completed successfully from FreeCodeCamp. I'm looking into learning how to navigate the site better along my journey!
 
 Jump to https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-2
-
+https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-3
 
 ## Week 1  
 
@@ -99,7 +99,7 @@ Jump to https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-
 
 **Last Code Completed:** https://github.com/digitaljojo/fcc_lessons_javascript/blob/4f42c57307708f339f157399297a21c4e27055d0/cash_register.js
 
-## Week Three
+## Week 3
 
 ### Day 15: April 3, Sunday:
 
