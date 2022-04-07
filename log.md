@@ -91,3 +91,23 @@ Jump to https://github.com/digitaljojo/100-days-of-code/blob/master/log.md#week-
 
 **Last Code Completed** https://github.com/digitaljojo/fcc_lessons/blob/5aac22afcee0a3cd97b96b349f13c8c120dbf52b/addTogether.js
 
+### Days 13 and 14: April 1& 2, Friday and Saturday:
+
+**Progress Made** After much struggle and mind racking, I actually completed the Javascript track on FreeCodeCamp! It was grueling but I would definitely say a worthy endeavor. I took the rest of Saturday off to catch up on Attack on Titan.
+
+**Thoughts** I am so glad I have embraced the approach of writing my logic before attempting to code anything. It significantly speeds up the process of debugging. One of the best examples of this was with my cash register problem; writing in my notebook let me see where my flaws were and literally trace out my problem.
+
+**Last Code Completed:** https://github.com/digitaljojo/fcc_lessons_javascript/blob/4f42c57307708f339f157399297a21c4e27055d0/cash_register.js
+
+## Week Three
+
+### Day 15: April 3, Sunday:
+
+**Progress Made** Today I started learning more about front end libraries on FreeCodeCamp and then started messing around with my Github page a bit more. Took a day off of heavylogic and coding as a way of staying disciplined but not overexerting myself.
+
+### Day 16-18: April 4-6, Monday- Wednesday:
+
+**Progress Made** Continuing along the track for Front End Libraries. Learne about jQuery, Bootstrap, and React frameworks for Javascript. Also started Codewars and I have progressed from 8 kyu to 6 kyu.
+
+**Thoughts** I was always wondering why the hate for jQuery, but the brief moments of it I saw were enough to convicne me why people call it antiquated. React just is so much more robust and useful in comparison and I've only started to scratch the surface. The tutorial for FCC feels hard to gfollow at times. Maybe I should actually start taking notes? Dealing with state has been complicated because I don't knwo when to use or bind the correct properties. Notation can be difficult to remember how to actually call functions inside return statements.
+
