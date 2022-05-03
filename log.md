@@ -112,3 +112,21 @@ Jump to
 
 **Thoughts** I was always wondering why the hate for jQuery, but the brief moments of it I saw were enough to convicne me why people call it antiquated. React just is so much more robust and useful in comparison and I've only started to scratch the surface. The tutorial for FCC feels hard to gfollow at times. Maybe I should actually start taking notes? Dealing with state has been complicated because I don't knwo when to use or bind the correct properties. Notation can be difficult to remember how to actually call functions inside return statements.
 
+### Days 19-22: April 7-10, Thursday - Sunday:
+
+**Progress/Thoughts:**  Finally got a feel for React and Redux, but the reference site has been a godsend. Still need to find a side project to code in my off time and do some more challenges on CodeWars.
+
+## Coding Burnout
+
+For almost 5 weeks, I hit my coding journeyy with extreme furvor. The drawback in doing so is much like in Romeo and Juliet- the hottest flames burn the quickest. I was coding legitimately in every free moment I had, neglecting even my art to do so. This led me to loathe looking at programs even though I knew I WANTED to learn more. In the time away from coding, I honestly just played a lot of Bloodborne, which was oddly eye opening. The game is kown for its difficulty but when you understand the proper timing, your attack sequneces can align perfectly, killing any enemy in sight.
+
+I was too blindly focusing on a strategy that was not working for me, much like in my fight against Father Gasciogne- I didn't attempt the other angles because I was so headstrong on making sure my strategy could work. FreeCodeCamp is a fantastic resource but my study approach was not the best, and I didn't exactly vibe with the example snippet editing method of learning. I think my best apporach to learning will be following something I can build from scratch so I'm typing every bit, committing to my mental repository. Talking to others, much like utilizing the fan wiki, I have learned other possible paths I can take to get where I want to eventually be- landing a gig as a front end developer.
+
+## Week 4
+
+### Days 23 - 24: May 1-2, Sunday and Monday:
+
+**Progress Made:** Did a React tutorial on building a game of Tic Tac Toe, and Monday I did some research on node.js as well as look into Qualified's online code evaluations. I even saw the courses that W3 is offering as preparation for their certification exams in different languages.
+
+**Thoughts:** Getting back to touching code definitely feels good, but I think a timing method such as pomodoro will be needed to help me avoid another burnout crash. Finding a good way to balance learning/practicing code with art, gaming, and social life will be a worthy struggle to undertake. Also I need to hop onto #100devs, but I just suck at sitting through lectures for hours, and the first class being 3.5 hours was lsightly offputting. I plan to break each lesson into hourly chunks to make them more palatable.
+
